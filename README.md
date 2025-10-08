@@ -6,10 +6,6 @@
   ¡Hola! Soy <b>Ángel Jurado Herruzo</b> 👋
 </h2>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Desarrollador+Multiplataforma;Apasionado+por+la+tecnología+y+el+aprendizaje;Siempre+buscando+mejorar+y+crear+cosas+nuevas" alt="Typing SVG" />
-</p>
-
 ---
 
 ## 🚀 Sobre mí
@@ -30,15 +26,6 @@
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AngelJuradoHerruzo&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelJuradoHerruzo&layout=compact&theme=tokyonight" height="165" />
-</p>
-
----
-
 ## 📫 Cómo contactarme
 
 <p align="center">
@@ -52,11 +39,11 @@
 ## ☕ Un poco más sobre mí
 
 🧠 Me gusta aprender nuevas tecnologías y mejorar mis proyectos.  
-🎮 En mi tiempo libre practico artes marciales y disfruto de la música en vinilo.  
+🎮 En mi tiempo libre practico artes marciales y disfruto de la música.  
 🌍 Creo que la programación es una forma de dejar huella en el mundo.
 
 ---
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer"/>
 </div>
