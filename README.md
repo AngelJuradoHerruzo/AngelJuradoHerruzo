@@ -2,9 +2,9 @@
    <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100 />
 </div>
 
-<h2 align="center">
+<p align="center">
   ¡Hola! Soy <b>Ángel Jurado Herruzo</b> 👋
-</h2>
+</p>
 
 ---
 
