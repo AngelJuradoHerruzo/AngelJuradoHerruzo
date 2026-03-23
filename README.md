@@ -2,10 +2,6 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=230&color=0:0f0c29,25:302b63,50:24243e,75:4a00e0,100:8e2de2&text=Ángel%20Jurado%20Herruzo&section=header&reversal=false&textBg=false&fontAlignY=45&rotate=0&animation=fadeIn&fontColor=ffffff&fontSize=43&desc=Desarrollador%20en%20formación%20|%20DAM&descSize=20&descAlignY=65" />
 </div>
 
-<p align="center">
-  Construyendo mi camino en el desarrollo de software con constancia, ambición y ganas de seguir creciendo.
-</p>
-
 ---
 
 ## Sobre mí
